@@ -1,4 +1,14 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<!-- Animated Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=E5C07B&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+I'm+Hoang+%7C+EurusDFIR;Full+Stack+Developer+%F0%9F%92%BB;Building+Scalable+Applications+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
+</div>
+
+###
+
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=EurusDFIR&style=for-the-badge&color=E5C07B&label=Profile+Views" alt="Profile Views" />
+</div>
 
 ###
 
@@ -103,20 +113,50 @@
 
 ###
 
-<!-- Social badges: chỉ LinkedIn là có link thực, các mạng khác để comment để tránh 404 -->
+<!-- Contact & Social -->
+<h2 align="center">📫 Connect With Me</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/hoang-eurusdfir/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-
+  <a href="mailto:hoangslevan@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://github.com/EurusDFIR" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+  </a>
 </div>
 
 ###
 
-<!-- Stats & trophies: đổi user=EurusDFIR đúng thông tin của bạn -->
+<!-- GitHub Stats & Languages -->
+<h2 align="center">📊 GitHub Statistics</h2>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=EurusDFIR&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=EurusDFIR&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=EurusDFIR&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EurusDFIR&layout=compact&theme=dracula&hide_border=false&langs_count=8" height="170" alt="languages graph" />
+</div>
+
+###
+
+<!-- Streak & Trophies -->
+<h2 align="center">🔥 Contribution Streak</h2>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=EurusDFIR&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" alt="streak graph" />
+</div>
+
+###
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=EurusDFIR&theme=dracula&column=4&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="trophy graph" />
+</div>
+
+###
+
+<!-- Activity Graph -->
+<h2 align="center">📈 Contribution Activity</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EurusDFIR&theme=dracula&hide_border=false&area=true" alt="activity graph" />
 </div>
 
 ###
@@ -128,3 +168,16 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EurusDFIR/EurusDFIR/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EurusDFIR/EurusDFIR/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<!-- Random Dev Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
+</div>
