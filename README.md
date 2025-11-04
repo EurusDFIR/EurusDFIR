@@ -152,22 +152,22 @@ Alpha-Beta pruning, heuristic evaluation, move generation optimization với Pyt
 </td>
 <td width="50%" valign="top">
 
-### 💻 [Competitive C++](https://github.com/EurusDFIR/Competitive-Cpp)
+### �️ [vibraGuard](https://github.com/EurusDFIR/vibraGuard)
 
-[![](https://img.shields.io/github/stars/EurusDFIR/Competitive-Cpp?style=flat&logo=github&color=yellow)](https://github.com/EurusDFIR/Competitive-Cpp/stargazers)
-[![](https://img.shields.io/github/forks/EurusDFIR/Competitive-Cpp?style=flat&logo=github&color=blue)](https://github.com/EurusDFIR/Competitive-Cpp/network)
-[![](https://img.shields.io/github/last-commit/EurusDFIR/Competitive-Cpp?style=flat&logo=github&color=orange)](https://github.com/EurusDFIR/Competitive-Cpp/commits)
+[![](https://img.shields.io/github/stars/EurusDFIR/vibraGuard?style=flat&logo=github&color=yellow)](https://github.com/EurusDFIR/vibraGuard/stargazers)
+[![](https://img.shields.io/github/forks/EurusDFIR/vibraGuard?style=flat&logo=github&color=blue)](https://github.com/EurusDFIR/vibraGuard/network)
+[![](https://img.shields.io/github/last-commit/EurusDFIR/vibraGuard?style=flat&logo=github&color=orange)](https://github.com/EurusDFIR/vibraGuard/commits)
 
-**DSA & Competitive Programming**  
-Solutions cho các bài toán thuật toán, data structures, và competitive programming.
+**Vibration monitoring & anomaly detection**  
+Lightweight sensor data collection, edge processing and anomaly alerting for predictive maintenance.
 
 **Tech Stack:**  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![STL](https://img.shields.io/badge/STL-Containers-2496ED?style=flat-square)
-![DSA](https://img.shields.io/badge/DSA-Algorithms-ff69b4?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-FF6F61?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<a href="https://github.com/EurusDFIR/Competitive-Cpp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EurusDFIR&repo=Competitive-Cpp&theme=dracula&hide_border=true" width="100%" />
+<a href="https://github.com/EurusDFIR/vibraGuard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EurusDFIR&repo=vibraGuard&theme=dracula&hide_border=true" width="100%" alt="vibraGuard preview" />
 </a>
 
 </td>
