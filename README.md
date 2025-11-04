@@ -152,19 +152,65 @@ Alpha-Beta pruning, heuristic evaluation, move generation optimization với Pyt
 </td>
 <td width="50%" valign="top">
 
-### �️ [vibraGuard](https://github.com/EurusDFIR/vibraGuard)
+### 🛡️ [vibraGuard](https://github.com/EurusDFIR/vibraGuard)
 
 [![](https://img.shields.io/github/stars/EurusDFIR/vibraGuard?style=flat&logo=github&color=yellow)](https://github.com/EurusDFIR/vibraGuard/stargazers)
 [![](https://img.shields.io/github/forks/EurusDFIR/vibraGuard?style=flat&logo=github&color=blue)](https://github.com/EurusDFIR/vibraGuard/network)
 [![](https://img.shields.io/github/last-commit/EurusDFIR/vibraGuard?style=flat&logo=github&color=orange)](https://github.com/EurusDFIR/vibraGuard/commits)
 
-**Vibration monitoring & anomaly detection**  
-Lightweight sensor data collection, edge processing and anomaly alerting for predictive maintenance.
+**📖 About**
+VibraGuard AI is a cutting-edge security system that solves the chronic false alarm problem of traditional vibration sensors. Instead of simple threshold-based detection, VibraGuard uses TinyML (Tiny Machine Learning) running directly on an ESP32-C3 microcontroller to intelligently classify vibrations as:
+
+- **Attack** 🚨 — Break-in attempts (drilling, smashing, prying)
+- **Normal** ✅ — Harmless events (door knocks, wind, footsteps)
+- **Noise** 🔇 — Environmental interference (passing vehicles, distant machinery)
+
+By processing AI inference at the edge (1ms latency), VibraGuard achieves:
+
+- **95.1% accuracy** (Attack: 93.1%, Normal: 95.8%, Noise: 98.8%)
+- **< 2 second** end-to-end response time
+- **> 90% reduction** in false alarms vs traditional sensors
+
+✨ **Key Features**
+
+🧠 **Edge AI Processing**
+- TensorFlow Lite model trained on Edge Impulse
+- 1 ms inference time on ESP32-C3 (RISC‑V @ 160MHz)
+- 1.4 KB RAM footprint, 45.1 KB Flash
+- Spectral Analysis (FFT) for frequency-domain feature extraction
+
+🔗 **Full-Stack IoT Architecture**
+- ESP32-C3 Super Mini with MPU-6050 (6-axis accelerometer/gyro)
+- MQTT protocol (Eclipse Mosquitto broker)
+- Spring Boot 3.1.5 backend (Java 17)
+- PostgreSQL 14 database
+- React + Vite web dashboard
+- Flutter 3.9 mobile app (Android/iOS)
+
+☁️ **Cloud Deployment**
+- Google Cloud Platform (Compute Engine e2-small)
+- Docker Compose orchestration (3 services)
+- 24/7 uptime with auto-restart policies
+- Static IP: `34.87.133.103`
+
+📢 **Multi-Channel Alerts**
+- Local Buzzer — Immediate on-device alarm
+- WebSocket (STOMP) — Real-time push to web/mobile
+- SMS — Twilio API integration
+- Voice Call — TwiML automated phone calls
+
+🎮 **Remote Control**
+- ARM / DISARM system via web or mobile app
+- Event history with confidence scores
+- Real-time status monitoring
 
 **Tech Stack:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-FF6F61?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square)
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square)
 
 <a href="https://github.com/EurusDFIR/vibraGuard">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=EurusDFIR&repo=vibraGuard&theme=dracula&hide_border=true" width="100%" alt="vibraGuard preview" />
