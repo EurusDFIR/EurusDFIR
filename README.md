@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=32&duration=2800&pause=2000&color=E5C07B&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+I'm+Hoang+%7C+EurusDevSec;DevSecOps + %26 + Cloud-Native + Engineer + 🛡️+%F0%9F%92%BB;Building+Scalable+Applications+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=32&duration=2800&pause=2000&color=E5C07B&center=true&vCenter=true&width=940&lines=Hey%20%F0%9F%91%8B%20I%27m%20Hoang%20%7C%20EurusDevSec%3BDevSecOps%20%26%20Cloud-Native%20Engineer%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%92%BB%3BBuilding%20Scalable%20Applications%20%F0%9F%9A%80%3BOpen%20Source%20Enthusiast%20%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 ###
